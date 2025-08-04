@@ -123,7 +123,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:thehazardparadox@gmail.com"
     - label: "YouTube"
-      icon: "fa fa-youtube-play"
+      icon: "fa-brands fa-youtube"
       url: "https://www.youtube.com/@TheHazardParadox"
     - label: "Roblox"
       icon: "fa fa-gamepad"
