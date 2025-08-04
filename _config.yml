@@ -141,9 +141,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "YouTube"
+      icon: "fa fa-youtube-play"
+       url: "https://www.youtube.com/@TheHazardParadox"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -159,7 +159,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "2025"
 
 
 # Reading Files
