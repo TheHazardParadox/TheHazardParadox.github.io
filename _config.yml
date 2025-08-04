@@ -143,7 +143,7 @@ footer:
   links:
     - label: "YouTube"
       icon: "fa fa-youtube-play"
-       url: "https://www.youtube.com/@TheHazardParadox"
+      url: "https://www.youtube.com/@TheHazardParadox"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
